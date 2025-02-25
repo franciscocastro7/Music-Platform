@@ -1,1 +1,1 @@
-Basics of modularity, encapsulation and querys
+This practical work in C involves the modular implementation of a music streaming system, where students must process data on songs, artists, and users, store them in memory, and respond to queries. The project includes data validation, use of tools like Valgrind and gdb, and three execution modes: main, interactive, and testing.
